@@ -1,0 +1,4 @@
+# Convert channel
+| CISS | NIST |
+|------|------|
+| An information flow that is not controlled by a security control and has the opportunity of disclosing confidential information. | An unintended or unauthorized intra-system channel that enables two cooperating entities to transfer information in a way that violates the system's security policy but does not exceed the entities' access authorizations. |
