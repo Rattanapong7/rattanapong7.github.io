@@ -6,5 +6,5 @@
 - My hobbies is play basketball 🏀, listen music🎵, and learn new thing .
 ![Rattanapong Muangkrathok](img/S__5210186.jpg)
 
-[Convert Channel](https://bestwatchara.github.io/convert_channel.html)
+[Convert Channel](Convert channel)
 
