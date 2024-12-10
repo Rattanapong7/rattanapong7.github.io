@@ -11,7 +11,7 @@
 
 
 ### NIST
--Definitions : An unintended or unauthorized intra-system channel that enables two cooperating entities to transfer information in a way that violates the system’s security policy but does not exceed the entities’ access authorizations.
+- Definitions : An unintended or unauthorized intra-system channel that enables two cooperating entities to transfer information in a way that violates the system’s security policy but does not exceed the entities’ access authorizations.
 
 | Chat GPT                                                                                          | Gemini                                                                                           |
 |-------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
