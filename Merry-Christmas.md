@@ -1,2 +1,2 @@
-![Merry Christmas](img/White Green Minimalist Merry Christmas Card Portrait.png)
+![Merry Christmas](img/Merry-Christmas.png)
 
