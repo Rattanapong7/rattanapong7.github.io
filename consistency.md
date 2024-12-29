@@ -1,4 +1,4 @@
-# Definetion Of Consistency
+# Definition Of Consistency
 ## From Datactics :
 The DQ tool can measure data inconsistencies via many different built-in operations such as validation, matching, filtering/searching. The rule outcome metadata can be analysed inside the tool to display the consistency of the data measured over time. 
 ## From ChatGPT :
