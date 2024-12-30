@@ -1,8 +1,9 @@
 # Definition Of Consistency
 ## From Datactics :
 The DQ tool can measure data inconsistencies via many different built-in operations such as validation, matching, filtering/searching. The rule outcome metadata can be analysed inside the tool to display the consistency of the data measured over time. 
+-reference : [reference](https://www.datactics.com/glossary/what-is-data-quality/)
 ## From ChatGPT :
-หมายถึงความสอดคล้องกันของข้อมูลระหว่างแหล่งข้อมูลหรือภายในชุดข้อมูลเดียวกัน โดยที่ข้อมูลจะต้องไม่ขัดแย้งหรือสร้างความเข้าใจผิดในบริบทที่ใช้งาน 
+ หมายถึงความสอดคล้องกันของข้อมูลระหว่างแหล่งข้อมูลหรือภายในชุดข้อมูลเดียวกัน โดยที่ข้อมูลจะต้องไม่ขัดแย้งหรือสร้างความเข้าใจผิดในบริบทที่ใช้งาน 
 ## From Gemini :
  หมายถึง ความสอดคล้องกันของข้อมูล ทุกชิ้น ทุกส่วน ทุกแหล่งข้อมูลที่เกี่ยวข้องกัน ต้องมีความสอดคล้องและเป็นไปในทิศทางเดียวกัน ไม่ขัดแย้งกัน ไม่ว่าจะเป็นการสะกดคำ รูปแบบการบันทึกข้อมูล หน่วยวัด หรือมาตรฐานอื่นๆ ที่กำหนดขึ้น
 ## My summary :
