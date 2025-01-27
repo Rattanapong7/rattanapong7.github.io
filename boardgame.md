@@ -8,4 +8,4 @@
 
   บรรยากาศการทำกิจกรรม (เมื่อวันที่ 8 มกราคม 2567 เวลาประมาณ 17.00 น. ณ บริเวณ ตึก 17 มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตศรีราชา)
 ![activity3](img/S__6144294_0.jpg)
-[Securing the Human](https://youtu.be/ZvQ2fzvgYxU)
+![Securing the Human](https://youtu.be/ZvQ2fzvgYxU)
