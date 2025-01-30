@@ -1,3 +1,4 @@
+# Security Controls
 ![CCTV](img/S__6201401.jpg)
 ## Type of Security Controls
 - Physical control
